@@ -120,7 +120,8 @@ def main():
         # clear previously generated page folders so deleted pages do not linger
         for d in os.listdir(ROOT):
             fp = os.path.join(ROOT, d)
-            if os.path.isdir(fp) and not d.startswith((".", "_")) and d != "assets" and os.path.exists(os.path.join(fp, "index.html")):
+            if os.path.isdir(fp) and not d.startswith((".", "_")) and d != "assets" and any(
+                    "index.html" in files for _, _, files in os.walk(fp)):
                 shutil.rmtree(fp)
 
         for path in paths:
