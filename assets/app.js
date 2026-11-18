@@ -1,4 +1,4 @@
-const FORM_URL="",BOOKING_URL="",PHONE="(000) 000-0000",TEL="+10000000000";
+const FORM_URL="",BOOKING_URL="",PHONE="(672) 326-5296",TEL="+16723265296";
 /* Add your social links here */
 const SOCIAL={facebook:"",instagram:"",twitter:"",linkedin:""};
 const track=n=>{(window.dataLayer=window.dataLayer||[]).push({event:n})};
@@ -87,7 +87,7 @@ terms:["Terms of Service","These terms govern your use of this website and the s
 ["22. Indemnity","You agree to defend and hold us harmless from claims, losses and expenses (including reasonable legal fees) arising from your work for consumers, your breach of these terms or your violation of law."],
 ["23. Governing law and disputes","These terms are governed by the laws of [State], without regard to conflict of laws rules. Disputes will be resolved in the state or federal courts located in [County, State], and you consent to that venue. Before any formal claim, both parties agree to try to resolve the issue in good faith for at least 30 days."],
 ["24. Changes","We may update these terms. If a change materially affects you, we will tell you by email or on this site. Continued use after the effective date means you accept the update. If you do not agree, you may end the services under section 8."],
-["25. Contact","Questions about these terms: [business email] or [business address]. Phone: (000) 000-0000."]]],
+["25. Contact","Questions about these terms: [business email] or [business address]. Phone: (672) 326-5296."]]],
 privacy:["Privacy Policy","This policy explains what personal information [Legal business name] (HighDemandServices, we, us) collects, how we use it and the choices you have. It covers this website, our forms, our chat assistant and the calls we deliver.",[
 ["1. Information we collect","We collect information in four ways.\n\n- Information you give us: name, business name, phone, email, trade, service area and message when you submit a form, use the chat assistant or contact us.\n- Information from calls: for calls delivered through our tracking numbers, the caller's phone number, approximate location, time, duration, the request described and, where permitted, a recording.\n- Information collected automatically: IP address, device and browser type, pages viewed, referring pages and approximate location.\n- Billing information: payment details needed to charge you, handled by our payment processor."],
 ["2. How we use it","We use personal information to:\n\n- Respond to your request and set up the services\n- Deliver, screen, verify and bill for calls\n- Review disputes and issue credits\n- Send weekly reports, invoices and service notices\n- Improve our site, marketing and call quality\n- Prevent fraud, spam and misuse\n- Meet legal obligations"],
@@ -102,7 +102,7 @@ privacy:["Privacy Policy","This policy explains what personal information [Legal
 ["11. Children","The site and services are for businesses and are not directed to children under 16. We do not knowingly collect personal information from children."],
 ["12. Data transfers","We are based in the United States, and your information may be processed there and in other places where our service providers operate. Where required, we use safeguards for those transfers."],
 ["13. Changes to this policy","We may update this policy. If a change is material, we will tell you by email or on this site before it takes effect."],
-["14. Contact","Privacy questions or requests: [business email] or [business address]. Phone: (000) 000-0000."]]],
+["14. Contact","Privacy questions or requests: [business email] or [business address]. Phone: (672) 326-5296."]]],
 cookies:["Cookie Policy","This policy explains how HighDemandServices uses cookies and similar storage on this site.",[
 ["What cookies are","Cookies are small files saved on your device. Similar technologies, such as local storage, work in much the same way. We use them to make the site work, remember your choices and understand how the site is used."],
 ["Essential cookies and storage","These keep the site working, for example by remembering your cookie choice. They do not need consent and cannot be switched off in our tools, though you can block them in your browser. Parts of the site may not work if you do."],
